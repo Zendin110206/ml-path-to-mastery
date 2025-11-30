@@ -2,7 +2,7 @@
 
 **Documentation of Independent Study & Technical Notes**
 
-This repository serves as the central documentation for my transition from Telecommunication Engineering to **Applied Machine Learning Research**. It contains structured notes, mathematical derivations, Python implementations, and research logs.
+This repository serves as the central documentation for my transition from Telecommunication Engineering to **Applied Machine Learning Research**. It contains structured notes, mathematical derivations, Python implementations, and reserch logs.
 
 The curriculum follows a rigorous path from mathematical foundations to advanced deep learning architectures, designed to prepare for a **Master’s degree in AI (with a strong interest in Japan)**.
 
@@ -50,4 +50,4 @@ The directory is organized by domain to maintain a clean research environment:
 
 ---
 
-*Author: [Muhammad Zaenal Abidin](https://github.com/Zendin110206)*
+*Author: [Muhammad Zaenal Abidin Abdurrahman](https://github.com/Zendin110206)*
