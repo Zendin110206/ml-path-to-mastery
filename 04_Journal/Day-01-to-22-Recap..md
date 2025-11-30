@@ -1,0 +1,1 @@
+"Hari ini aku resmi memulai dokumentasi perjalanan ML-ku menggunakan Obsidian. Sebelumnya aku sudah menyelesaikan Essence of Linear Algebra dan Calculus dari 3Blue1Brown."
