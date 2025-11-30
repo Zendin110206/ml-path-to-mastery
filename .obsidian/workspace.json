@@ -211,16 +211,184 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/_Essence of Linear Algebra - The Big Picture.md.md",
+                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 01 - The Essence of Calculus.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Essence of Linear Algebra - The Big Picture.md"
+              "title": "Ch 01 - The Essence of Calculus.md"
+            }
+          },
+          {
+            "id": "edb284d322bc6f60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 02 - The Paradox of the Derivative.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch 02 - The Paradox of the Derivative.md"
+            }
+          },
+          {
+            "id": "99aba0294dff4a57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 03 - Derivative Formulas Through Geometry.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch 03 - Derivative Formulas Through Geometry.md"
+            }
+          },
+          {
+            "id": "633f18f1880cf425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 04 - Chain Rule and Product Rule.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch 04 - Chain Rule and Product Rule.md"
+            }
+          },
+          {
+            "id": "da3e28bc17c86b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 05 - The Number e.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch 05 - The Number e.md"
+            }
+          },
+          {
+            "id": "090c2a64b46f6d9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 06 - Implicit Differentiation.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch 06 - Implicit Differentiation.md"
+            }
+          },
+          {
+            "id": "8ecb0f5e5839cc0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 02 - The Paradox of the Derivative.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch 02 - The Paradox of the Derivative.md"
+            }
+          },
+          {
+            "id": "b0517ceeb8cc985b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 08 - Integration and the Fundamental Theorem of Calculus.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch 08 - Integration and the Fundamental Theorem of Calculus.md"
+            }
+          },
+          {
+            "id": "3d009a5e6507fa4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 09 - Area and Slope Relationship.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch 09 - Area and Slope Relationship.md"
+            }
+          },
+          {
+            "id": "bcc20a77fe47f03b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 10 - Higher Order Derivatives.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch 10 - Higher Order Derivatives.md"
+            }
+          },
+          {
+            "id": "d56f3605aa13302e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 11 - Taylor Series.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch 11 - Taylor Series.md"
+            }
+          },
+          {
+            "id": "60954d56102d5ddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 12 - Alternate Derivative Visualization.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch 12 - Alternate Derivative Visualization.md"
+            }
+          },
+          {
+            "id": "0f5d22e66cff26c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -277,7 +445,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.51240158081055
+    "width": 591.5124015808105
   },
   "right": {
     "id": "3dbc805e0a480f3f",
@@ -393,42 +561,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f924634879ecb3f6",
+  "active": "0f5d22e66cff26c2",
   "lastOpenFiles": [
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/_Essence of Linear Algebra - The Big Picture.md.pdf",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 16 - Abstract Vector Spaces.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/_Essence of Linear Algebra - The Big Picture.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 16 - Abstract Vector Spaces.md.pdf",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 15 - A Quick Trick for Eigenvalues.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 15 - A Quick Trick for Eigenvalues.md.pdf",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 14 - Eigenvectors and Eigenvalues.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 14 - Eigenvectors and Eigenvalues.md.pdf",
-    "Untitled.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 13 - Change of Basis.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 13 - Change of Basis.md.pdf",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 12 - Cramer's Rule, Explained Geometrically.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 12 - Cramer's Rule, Explained Geometrically.md.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/_Essence of Calculus - The Big Picture.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/_Essence of Calculus - The Big Picture.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 12 - Alternate Derivative Visualization.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 12 - Alternate Derivative Visualization.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 11 - Taylor Series.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 11 - Taylor Series.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 10 - Higher Order Derivatives.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 10 - Higher Order Derivatives.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 09 - Area and Slope Relationship.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 09 - Area and Slope Relationship.pdf",
     "README.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 08 - Integration and the Fundamental Theorem of Calculus.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 08 - Integration and the Fundamental Theorem of Calculus.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 07 - Limits, L'Hopital's Rule, and Epsilon Delta.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 07 - Limits, L'Hopital's Rule, and Epsilon Delta.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 06 - Implicit Differentiation.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 06 - Implicit Differentiation.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 05 - The Number e.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 05 - The Number e.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 04 - Chain Rule and Product Rule.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 04 - Chain Rule and Product Rule.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 03 - Derivative Formulas Through Geometry.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 02 - The Paradox of the Derivative.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 01 - The Essence of Calculus.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/_Essence of Linear Algebra - The Big Picture.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 16 - Abstract Vector Spaces.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 15 - A Quick Trick for Eigenvalues.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 14 - Eigenvectors and Eigenvalues.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 13 - Change of Basis.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 12 - Cramer's Rule, Explained Geometrically.md.md",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 11 - Cross Product in Light of Transformations.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 10 - Cross Products.md.pdf",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 10 - Cross Products.md.md",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 09 - Dot Products and Duality.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 09 - Dot Products and Duality.md.pdf",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 08 - Nonsquare Matrices as Transformations.md.pdf",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 08 - Nonsquare Matrices as Transformations.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 07 - Inverse Matrices, Column Space and Null Space.md.pdf",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 06 - The Determinant.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 06 - The Determinant.md.pdf",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 07 - Inverse Matrices, Column Space and Null Space.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 02 - Linear Combinations, Span, and Basis Vectors.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 01 - Vectors.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 04 - Matrix Multiplication as Compositions.md.md",
     "Untitled.canvas",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 03 - Linear Transformations and Matrices.md.md",
     "Pasted image 20251201035215.png",
     "Pasted image 20251201035209.png",
-    "Pasted image 20251201035203.png",
-    "8 Aksioma Ruang Vektor.md",
-    "04_Journal/Archive-Log-Day-01-to-22.md.md"
+    "Pasted image 20251201035203.png"
   ]
 }
