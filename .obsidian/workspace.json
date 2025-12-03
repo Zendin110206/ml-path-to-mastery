@@ -93,12 +93,14 @@
             "id": "72027d86b69e224a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "00_Inbox/assets/Pasted image 20251203185608.png"
+                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/07 - Basis, Vector Space, and Applications.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251203185608"
+              "icon": "lucide-file",
+              "title": "07 - Basis, Vector Space, and Applications.md"
             }
           }
         ],
@@ -275,8 +277,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36fac457950b3aa9",
+  "active": "72027d86b69e224a",
   "lastOpenFiles": [
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/07 - Basis, Vector Space, and Applications.pdf",
+    "00_Inbox/assets/Pasted image 20251203185608.png",
     "00_Inbox/assets/Pasted image 20251204024535.png",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/07 - Basis, Vector Space, and Applications.md.md",
     "00_Inbox/assets/Pasted image 20251204024544.png",
@@ -300,7 +304,6 @@
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M01_Intoduction/01a - Quiz - Vectors in Machine Learning.pdf",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M01_Intoduction/01 - Getting a Handle on Vectors.md.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M01_Intoduction/01 - Getting a Handle on Vectors.md.pdf",
-    "00_Inbox/assets/Pasted image 20251203185608.png",
     "00_Inbox/assets/Pasted image 20251203184623.png",
     "00_Inbox/contoh template.md",
     "00_Inbox/assets/Pasted image 20251203182625.png",
