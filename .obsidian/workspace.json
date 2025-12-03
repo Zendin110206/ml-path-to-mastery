@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/01a - Quiz - Vectors in Machine Learning.md.md",
+                "file": "04_Journal/Learning_Milestones.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01a - Quiz - Vectors in Machine Learning.md"
+              "title": "Learning_Milestones.md"
             }
           }
         ],
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.50911331176758
+    "width": 469.5091133117676
   },
   "right": {
     "id": "3dbc805e0a480f3f",
@@ -251,8 +251,19 @@
   },
   "active": "276d8a4e2429bcf8",
   "lastOpenFiles": [
-    "Vector.md",
+    "99_Private_Log/Day-25-The-Relapse.md",
+    "99_Private_Log/Day-24-Rollercoaster.md",
+    "04_Journal/Learning_Milestones.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 03 - Linear Transformations and Matrices.md.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 02 - Linear Combinations, Span, and Basis Vectors.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 02 - Linear Combinations, Span, and Basis Vectors.md.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 09 - Dot Products and Duality.md.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 09 - Dot Products and Duality.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 07 - Inverse Matrices, Column Space and Null Space.md.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 07 - Inverse Matrices, Column Space and Null Space.md.md",
+    "Matriks.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/01a - Quiz - Vectors in Machine Learning.md.md",
+    "Vector.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/01a - Quiz - Vectors in Machine Learning.pdf",
     "00_Inbox/assets/Pasted image 20251202115631.png",
     "00_Inbox/assets/Pasted image 20251202120918.png",
@@ -272,7 +283,6 @@
     "00_Inbox/ZAE'S MARKDOWN & OBSIDIAN CHEATSHEET.md",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 01 - Vectors.md.md",
     "00_Inbox/Markdown-CheatSheet.md.md",
-    "04_Journal/Archive-Log-Day-01-to-22.md.md",
     "![[Pasted.md",
     "00_Inbox/contoh template.md",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/contoh template.pdf",
@@ -280,22 +290,13 @@
     "Math for ML - Notes.md",
     "00_Inbox/assets",
     "vektor.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 03 - Linear Transformations and Matrices.md.pdf",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/_Essence of Calculus - The Big Picture.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/_Essence of Calculus - The Big Picture.pdf",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 12 - Alternate Derivative Visualization.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 12 - Alternate Derivative Visualization.pdf",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 11 - Taylor Series.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 11 - Taylor Series.pdf",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 10 - Higher Order Derivatives.md.md",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 09 - Area and Slope Relationship.md.md",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 08 - Integration and the Fundamental Theorem of Calculus.md.md",
     "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 07 - Limits, L'Hopital's Rule, and Epsilon Delta.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 06 - Implicit Differentiation.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 05 - The Number e.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 04 - Chain Rule and Product Rule.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 03 - Derivative Formulas Through Geometry.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 02 - The Paradox of the Derivative.md.md",
     "Untitled.canvas"
   ]
 }
