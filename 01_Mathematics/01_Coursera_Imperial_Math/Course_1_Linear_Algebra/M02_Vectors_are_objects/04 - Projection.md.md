@@ -1,4 +1,3 @@
-
 # 04: Projection
 
 **Chapter Goal:** To use the geometric definition of the [[Dot Product]] to formally understand and calculate the **projection** of one vector onto another.
