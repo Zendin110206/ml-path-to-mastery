@@ -4,93 +4,177 @@
     "type": "split",
     "children": [
       {
-        "id": "4e4fbc80a7e5de79",
+        "id": "45e60c8bed8cd3a5",
         "type": "tabs",
         "children": [
           {
-            "id": "bfa65c038eb3e800",
+            "id": "50532495155ed0c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/04 - Matrix Multiplication (Compositions).md.md",
+                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/01 - Einstein Summation and Dot Product.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - Matrix Multiplication (Compositions).md"
+              "title": "01 - Einstein Summation and Dot Product.md"
             }
           },
           {
-            "id": "a8a39219074d3d81",
+            "id": "a812ca3e3a000a2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/05 - Solving Systems of Equations.md.md",
+                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/03 - Transformations in a Changed Basis.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - Solving Systems of Equations.md"
+              "title": "03 - Transformations in a Changed Basis.md"
             }
           },
           {
-            "id": "2f26859737dd4290",
+            "id": "442ae2139722e7fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/06 - Finding the Inverse Matrix.md.md",
+                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/04 - Orthogonal Matrices.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - Finding the Inverse Matrix.md"
+              "title": "04 - Orthogonal Matrices.md"
             }
           },
           {
-            "id": "8874da0daeda6843",
+            "id": "01527f86276984ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/05b - The Gram-Schmidt Process.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05b - The Gram-Schmidt Process.md"
+            }
+          },
+          {
+            "id": "2f6f7baf43277ac2",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "00_Inbox/assets/WhatsApp Image 2025-12-08 at 03.38.52_862474e6.jpg"
+                "file": "00_Inbox/assets/Pasted image 20251214130921.png"
               },
               "icon": "lucide-image",
-              "title": "WhatsApp Image 2025-12-08 at 03.38.52_862474e6"
+              "title": "Pasted image 20251214130921"
             }
           },
           {
-            "id": "abe0db3be497f57e",
+            "id": "aaeabb6da78b0769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/07 - Determinants and The Inverse.md.md",
+                "file": "04_Journal/Learning_Milestones.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 - Determinants and The Inverse.md"
+              "title": "Learning_Milestones.md"
             }
           },
           {
-            "id": "44556b50295f4ea4",
+            "id": "464d5917b0c736c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/08 - On Calculating Determinants (A Note on Pedagogy).md.md",
+                "file": "99_Private_Log/Day-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 - On Calculating Determinants (A Note on Pedagogy).md"
+              "title": "Day-31"
+            }
+          },
+          {
+            "id": "3a86862608653610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Private_Log/Day-32.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-32"
+            }
+          },
+          {
+            "id": "034dd4a844df31aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Private_Log/Day-33.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-33"
+            }
+          },
+          {
+            "id": "ae15c216f2bf7648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Private_Log/Day-34.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-34"
+            }
+          },
+          {
+            "id": "10006358cdaf0b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Private_Log/Day-35.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-35"
+            }
+          },
+          {
+            "id": "70f41d5fcebc759c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/06b - Example - Reflection in a Plane.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06b - Example - Reflection in a Plane.md"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -147,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5091133117676
+    "width": 228.50911331176758
   },
   "right": {
     "id": "3dbc805e0a480f3f",
@@ -263,54 +347,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44556b50295f4ea4",
+  "active": "70f41d5fcebc759c",
   "lastOpenFiles": [
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/08 - On Calculating Determinants (A Note on Pedagogy).pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/07 - Determinants and The Inverse.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/07 - Determinants and The Inverse.pdf",
+    "99_Private_Log/Day-34.md",
+    "99_Private_Log/Day-36.md",
+    "99_Private_Log/Day-35.md",
+    "99_Private_Log/Day-33.md",
+    "99_Private_Log/Day-28.md",
+    "99_Private_Log/Day-32.md",
+    "99_Private_Log/Day-31.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/06 - Example - Reflection in a Plane.md.md",
+    "Pasted image 20251215021431.png",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/06 - Example - Reflection in a Plane.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/06b - Example - Reflection in a Plane.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/06b - Example - Reflection in a Plane.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/05 - The Gram-Schmidt Process.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/05b - The Gram-Schmidt Process.pdf",
+    "04_Journal/Learning_Milestones.md.md",
+    "00_Inbox/assets/Pasted image 20251215011333.png",
+    "00_Inbox/assets/Pasted image 20251214130921.png",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/05b - The Gram-Schmidt Process.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/05 - The Gram-Schmidt Process.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/04 - Orthogonal Matrices.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/04 - Orthogonal Matrices.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/03 - Transformations in a Changed Basis.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/03 - Transformations in a Changed Basis.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/02 - How a Matrix Changes Basis.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/Untitled.pdf",
+    "00_Inbox/assets/Pasted image 20251215011247.png",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/01b - Einstein Summation and Dot Product (real problem).md.md",
+    "00_Inbox/assets/Pasted image 20251214112233.png",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M01_Intoduction/01 - Getting a Handle on Vectors.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/01 - Einstein Summation and Dot Product.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/01 - Einstein Summation and Dot Product.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/01b - Einstein Summation and Dot Product (real problem).pdf",
+    "00_Inbox/assets/Pasted image 20251213122225.png",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/02 - How a Matrix Changes Basis.pdf",
+    "00_Inbox/assets/Pasted image 20251214110132.png",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/01 - Matrices, Vectors, and Equations.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/06 - Changing Basis.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/07 - Basis, Vector Space, and Applications.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/Formula Summary 01-04.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/01 - Introduction to Module 2.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/04 - Matrix Multiplication (Compositions).md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/05 - Solving Systems of Equations.md.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/06 - Finding the Inverse Matrix.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/08 - On Calculating Determinants (A Note on Pedagogy).md.md",
     "00_Inbox/assets/WhatsApp Image 2025-12-08 at 03.38.52_862474e6.jpg",
     "00_Inbox/assets/Pasted image 20251208032942.png",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/01 - Matrices, Vectors, and Equations.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/01 - Matrices, Vectors, and Equations.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/02 - How Matrices Transform Space.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/02 - How Matrices Transform Space.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/03 - Types of Matrix Transformations.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/03 - Types of Matrix Transformations.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/04 - Matrix Multiplication (Compositions).md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/04 - Matrix Multiplication (Compositions).pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/05 - Solving Systems of Equations.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/05 - Solving Systems of Equations.pdf",
     "00_Inbox/assets/Pasted image 20251208051432.png",
-    "00_Inbox/assets/Pasted image 20251208051345.png",
-    "00_Inbox/assets/Pasted image 20251208051211.png",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/06 - Finding the Inverse Matrix.pdf",
-    "00_Inbox/assets/Pasted image 20251208050956.png",
-    "00_Inbox/assets/WhatsApp Image 2025-12-08 at 05.04.37_d00bebd7 1.jpg",
-    "00_Inbox/assets/WhatsApp Image 2025-12-08 at 05.04.37_d00bebd7.jpg",
-    "00_Inbox/assets/Pasted image 20251208050830.png",
-    "00_Inbox/assets/WhatsApp Image 2025-12-08 at 05.04.37_f70f5800.jpg",
-    "99_Private_Log/Day-27.md",
-    "99_Private_Log/Day-26.md",
-    "99_Private_Log/Day-25.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/06 - Changing Basis.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/Formula Summary 01-04.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/04 - Projection.md.md",
-    "00_Inbox/ZAE'S MARKDOWN & OBSIDIAN CHEATSHEET.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/02 - Modulus and Inner Product.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors",
-    "01_Mathematics/01_Coursera_Imperial_Math/Untitled",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/03 - Cosine and Dot Product.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/01 - Introduction to Module 2.md.md",
-    "99_Private_Log/Day-24.md",
-    "99_Private_Log/Day-23.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/07 - Basis, Vector Space, and Applications.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/03 - Cosine and Dot Product.md.md",
-    "00_Inbox/Markdown-CheatSheet.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M01_Intoduction/01a - Quiz - Vectors in Machine Learning.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M01_Intoduction/01 - Getting a Handle on Vectors.md.md",
-    "00_Inbox/contoh template.md",
     "Untitled.canvas"
   ]
 }
