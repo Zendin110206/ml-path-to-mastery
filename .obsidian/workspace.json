@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "06b - Introduction to PageRank.md"
             }
-          },
-          {
-            "id": "aec1f3a7d93a00af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aec1f3a7d93a00af",
+  "active": "22ce8c0b9a86fc5d",
   "lastOpenFiles": [
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06b - Introduction to PageRank.md.md",
     "Untitled.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06b - Introduction to PageRank.md.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06 - Introduction to PageRank.md.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06 - Introduction to PageRank.pdf",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/04 - Changing to the Eigenbasis.pdf",
