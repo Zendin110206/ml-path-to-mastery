@@ -13,308 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/01 - Einstein Summation and Dot Product.md.md",
+                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06 - Introduction to PageRank.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Einstein Summation and Dot Product.md"
+              "title": "06 - Introduction to PageRank.md"
             }
           },
           {
-            "id": "a812ca3e3a000a2d",
+            "id": "32c94a309d6f5554",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/03 - Transformations in a Changed Basis.md.md",
+                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06b - Introduction to PageRank.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Transformations in a Changed Basis.md"
+              "title": "06b - Introduction to PageRank.md"
             }
           },
           {
-            "id": "442ae2139722e7fd",
+            "id": "aec1f3a7d93a00af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/04 - Orthogonal Matrices.md.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - Orthogonal Matrices.md"
-            }
-          },
-          {
-            "id": "01527f86276984ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/05b - The Gram-Schmidt Process.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05b - The Gram-Schmidt Process.md"
-            }
-          },
-          {
-            "id": "2f6f7baf43277ac2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "00_Inbox/assets/Pasted image 20251214130921.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251214130921"
-            }
-          },
-          {
-            "id": "aaeabb6da78b0769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_Journal/Learning_Milestones.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Learning_Milestones.md"
-            }
-          },
-          {
-            "id": "464d5917b0c736c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99_Private_Log/Day-31.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day-31"
-            }
-          },
-          {
-            "id": "3a86862608653610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99_Private_Log/Day-32.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day-32"
-            }
-          },
-          {
-            "id": "034dd4a844df31aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99_Private_Log/Day-33.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day-33"
-            }
-          },
-          {
-            "id": "ae15c216f2bf7648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99_Private_Log/Day-34.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day-34"
-            }
-          },
-          {
-            "id": "10006358cdaf0b04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99_Private_Log/Day-35.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day-35"
-            }
-          },
-          {
-            "id": "70f41d5fcebc759c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/06b - Example - Reflection in a Plane.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06b - Example - Reflection in a Plane.md"
-            }
-          },
-          {
-            "id": "65471b63689bc3c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/01 - What are Eigenvalues and Eigenvectors.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - What are Eigenvalues and Eigenvectors.md"
-            }
-          },
-          {
-            "id": "34804e81df762266",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/02b - Special Eigen-Cases.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02b - Special Eigen-Cases.md"
-            }
-          },
-          {
-            "id": "6d30d4a946d37b68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/02b - Special Eigen-Cases.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02b - Special Eigen-Cases.md"
-            }
-          },
-          {
-            "id": "35aca0ec7977d038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03 - Calculating Eigenvectors.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 - Calculating Eigenvectors.md"
-            }
-          },
-          {
-            "id": "8eddbd10ac980712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03b - Calculating Eigenvectors.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03b - Calculating Eigenvectors.md"
-            }
-          },
-          {
-            "id": "93136860b5fada59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/04 - Changing to the Eigenbasis.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 - Changing to the Eigenbasis.md"
-            }
-          },
-          {
-            "id": "f7bb66d34fab8b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/05 - Eigenbasis Example.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 - Eigenbasis Example.md"
-            }
-          },
-          {
-            "id": "42feff7c04c27bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99_Private_Log/Day-36.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day-36"
-            }
-          },
-          {
-            "id": "019daf420ba677de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99_Private_Log/Day-37.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day-37"
-            }
-          },
-          {
-            "id": "ba28f3882351870e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -487,49 +223,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba28f3882351870e",
+  "active": "aec1f3a7d93a00af",
   "lastOpenFiles": [
-    "99_Private_Log/Day-38.md",
-    "99_Private_Log/Day-37.md",
-    "99_Private_Log/Day-36.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06b - Introduction to PageRank.md.md",
+    "Untitled.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06 - Introduction to PageRank.md.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06 - Introduction to PageRank.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/05 - Eigenbasis Example.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/05 - Eigenbasis Example.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/04 - Changing to the Eigenbasis.md.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/04 - Changing to the Eigenbasis.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03b - Calculating Eigenvectors.md.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03b - Calculating Eigenvectors.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03 - Calculating Eigenvectors.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03 - Calculating Eigenvectors.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/04 - Changing to the Eigenbasis.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 10 - Cross Products.md.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 12 - Cramer's Rule, Explained Geometrically.md.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 11 - Cross Product in Light of Transformations.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/01 - Einstein Summation and Dot Product.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/03 - Transformations in a Changed Basis.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/04 - Orthogonal Matrices.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/05b - The Gram-Schmidt Process.md.md",
+    "00_Inbox/assets/Pasted image 20251214130921.png",
+    "04_Journal/Learning_Milestones.md.md",
+    "99_Private_Log/Day-31.md",
+    "99_Private_Log/Day-32.md",
+    "99_Private_Log/Day-33.md",
+    "99_Private_Log/Day-34.md",
+    "99_Private_Log/Day-35.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/06b - Example - Reflection in a Plane.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/01 - What are Eigenvalues and Eigenvectors.md.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/02b - Special Eigen-Cases.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03 - Calculating Eigenvectors.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03b - Calculating Eigenvectors.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/05 - Eigenbasis Example.md.md",
+    "99_Private_Log/Day-36.md",
+    "99_Private_Log/Day-37.md",
+    "99_Private_Log/Day-38.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/05 - Eigenbasis Example.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03 - Calculating Eigenvectors.pdf",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/02b - Special Eigen-Cases.pdf",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/02 - Special Eigen-Cases.md.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/02 - Special Eigen-Cases.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/01 - What are Eigenvalues and Eigenvectors.md.md",
     "README.md",
     "00_Inbox/assets/Pasted image 20251216132421.png",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/03 - Transformations in a Changed Basis.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/02 - How a Matrix Changes Basis.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/03 - Transformations in a Changed Basis.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/01 - What are Eigenvalues and Eigenvectors.pdf",
     "00_Inbox/assets/Pasted image 20251216132653.png",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/06b - Example - Reflection in a Plane.md.md",
-    "99_Private_Log/Day-34.md",
-    "99_Private_Log/Day-35.md",
-    "99_Private_Log/Day-33.md",
-    "99_Private_Log/Day-28.md",
-    "99_Private_Log/Day-32.md",
-    "99_Private_Log/Day-31.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/06 - Example - Reflection in a Plane.md.md",
     "00_Inbox/assets/Pasted image 20251215021431.png",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/05 - The Gram-Schmidt Process.md.md",
-    "04_Journal/Learning_Milestones.md.md",
     "00_Inbox/assets/Pasted image 20251215011333.png",
-    "00_Inbox/assets/Pasted image 20251214130921.png",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/05b - The Gram-Schmidt Process.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/04 - Orthogonal Matrices.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/02 - How a Matrix Changes Basis.md.md",
     "00_Inbox/assets/Pasted image 20251215011247.png",
     "00_Inbox/assets/Pasted image 20251214112233.png",
     "00_Inbox/assets/Pasted image 20251213122225.png",
