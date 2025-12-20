@@ -4,191 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "45e60c8bed8cd3a5",
+        "id": "78a9a2f97226a0e3",
         "type": "tabs",
         "children": [
           {
-            "id": "50532495155ed0c9",
+            "id": "464f16fe880ff41b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06 - Introduction to PageRank.md.md",
+                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/01 - Variables, Constants, and Context.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - Introduction to PageRank.md"
+              "title": "01 - Variables, Constants, and Context.md"
             }
           },
           {
-            "id": "32c94a309d6f5554",
+            "id": "51d4ac030a066f25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Private_Log/Day-38.md",
+                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/02 - Differentiating With Respect to Anything.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day-38"
+              "title": "02 - Differentiating With Respect to Anything.md"
             }
           },
           {
-            "id": "7f9794f0aded3756",
+            "id": "a81fc493a7acbd8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Private_Log/Day-39.md",
+                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/03 - The Jacobian.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day-39"
+              "title": "03 - The Jacobian.md"
             }
           },
           {
-            "id": "97f50014d523c03d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 01 - The Essence of Calculus.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Ch 01 - The Essence of Calculus"
-            }
-          },
-          {
-            "id": "7a60b31c25a214da",
+            "id": "6ffa3c38a6620b1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Private_Log/Day-39.md",
+                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/04 - The Jacobian Applied.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day-39"
+              "title": "04 - The Jacobian Applied.md"
             }
           },
           {
-            "id": "0d71bdce7814713a",
+            "id": "ba80bcf1c5899b86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/02 - Rise Over Run.md.md",
+                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/05 - The Sandpit.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Rise Over Run.md"
-            }
-          },
-          {
-            "id": "ed1ca9372a750677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/02 - Rise Over Run.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 - Rise Over Run.md"
-            }
-          },
-          {
-            "id": "fb9955f886be6635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/03 - The Formal Definition of a Derivative.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 - The Formal Definition of a Derivative.md"
-            }
-          },
-          {
-            "id": "000c80eea31eab54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/04 - Derivative Examples and Special Cases.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 - Derivative Examples and Special Cases.md"
-            }
-          },
-          {
-            "id": "64a82d67fbc5494c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/05 - The Product Rule.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 - The Product Rule.md"
-            }
-          },
-          {
-            "id": "783c24bf33a51d45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/06 - The Chain Rule.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06 - The Chain Rule.md"
-            }
-          },
-          {
-            "id": "7f3b3c577e1729bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/07 - Differentiating a Monster Function.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07 - Differentiating a Monster Function.md"
-            }
-          },
-          {
-            "id": "fefc649d4f899707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/_M01 - Summary and Final Insights.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_M01 - Summary and Final Insights.md"
+              "title": "05 - The Sandpit.md"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -245,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50911331176758
+    "width": 427.5091133117676
   },
   "right": {
     "id": "3dbc805e0a480f3f",
@@ -361,54 +251,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fefc649d4f899707",
+  "active": "36fac457950b3aa9",
   "lastOpenFiles": [
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/_M01 - Summary and Final Insights.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/07 - Differentiating a Monster Function.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/_M01 - Summary and Final Insights.md.md",
-    "99_Private_Log/Day-40.md",
-    "README.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/06 - The Chain Rule.md.md",
-    "00_Inbox/assets/Pasted image 20251219213704.png",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/07 - Differentiating a Monster Function.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/06 - The Chain Rule.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/05 - The Sandpit.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 02 - The Paradox of the Derivative.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 01 - The Essence of Calculus.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 05 - The Number e.md.md",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 06 - Implicit Differentiation.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 11 - Taylor Series.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/02 - Differentiating With Respect to Anything.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/01 - Variables, Constants, and Context.pdf",
+    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 01 - The Essence of Calculus.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/05 - The Sandpit.md.md",
+    "00_Inbox/assets/Pasted image 20251220222113.png",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/04 - The Jacobian Applied.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/04 - The Jacobian Applied.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/03 - The Jacobian.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/03 - The Jacobian.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/02 - Differentiating With Respect to Anything.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/01 - Variables, Constants, and Context.md.md",
+    "00_Inbox/assets/Pasted image 20251220151855.png",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/04 - Derivative Examples and Special Cases.pdf",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/05 - The Product Rule.pdf",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/05 - The Product Rule.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/04 - Derivative Examples and Special Cases.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/04 - Derivative Examples and Special Cases.pdf",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/03 - The Formal Definition of a Derivative.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/03 - The Formal Definition of a Derivative.pdf",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/06 - The Chain Rule.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/07 - Differentiating a Monster Function.md.md",
+    "00_Inbox/assets/Pasted image 20251220190639.png",
+    "00_Inbox/assets/Pasted image 20251220190614.png",
+    "00_Inbox/assets/Pasted image 20251220185320.png",
+    "00_Inbox/assets/Pasted image 20251220185305.png",
+    "00_Inbox/assets/Pasted image 20251220183518.png",
+    "00_Inbox/assets/Pasted image 20251220175901.png",
+    "00_Inbox/assets/Pasted image 20251220175846.png",
+    "00_Inbox/assets/Pasted image 20251220175827.png",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/02 - Rise Over Run.md.md",
-    "00_Inbox/assets/Pasted image 20251219194445.png",
-    "00_Inbox/assets/Pasted image 20251219212238.png",
-    "00_Inbox/assets/Pasted image 20251219211916.png",
-    "00_Inbox/assets/Pasted image 20251219203208.png",
-    "00_Inbox/assets/Pasted image 20251219203036.png",
-    "00_Inbox/assets/Pasted image 20251219200959.png",
-    "00_Inbox/assets/Pasted image 20251219200435.png",
-    "00_Inbox/assets/Pasted image 20251219195113.png",
-    "00_Inbox/assets/Pasted image 20251219195029.png",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/02 - Rise Over Run.pdf",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 02 - The Paradox of the Derivative.pdf",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 01 - The Essence of Calculus.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 01 - The Essence of Calculus.pdf",
+    "99_Private_Log/Day-38.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/_M01 - Summary and Final Insights.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/04 - Derivative Examples and Special Cases.md.md",
+    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/03 - The Formal Definition of a Derivative.md.md",
     "99_Private_Log/Day-39.md",
+    "99_Private_Log/Day-40.md",
+    "README.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/01 - Functions.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/01 - Functions.pdf",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/00 - Welcome to Multivariate Calculus.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/00 - Welcome to Multivariate Calculus.pdf",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03 - Calculating Eigenvectors.md.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03b - Calculating Eigenvectors.md.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/04 - Changing to the Eigenbasis.md.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/05 - Eigenbasis Example.md.md",
     "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06 - Introduction to PageRank.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M01_Intoduction/01a - Quiz - Vectors in Machine Learning.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M01_Intoduction/01 - Getting a Handle on Vectors.md.md",
-    "99_Private_Log/Day-38.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06b - Introduction to PageRank.md.md",
-    "01_Mathematics/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 11 - Cross Product in Light of Transformations.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/01 - Einstein Summation and Dot Product.md.md",
-    "01_Mathematics/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/03 - Transformations in a Changed Basis.md.md",
     "Untitled.canvas"
   ]
 }
