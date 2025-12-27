@@ -353,3 +353,68 @@ Dengan mengetahui **Eigenvector dan Eigenvalue** dari Hessian, algoritma ini bis
 Jadi, **Eigenvector** (dari turunan kedua) memberikan **informasi tentang "geometri" dari lanskap** yang sedang coba dinavigasi oleh **Gradient Descent** (yang menggunakan turunan pertama). Keduanya saling melengkapi untuk menciptakan algoritma optimisasi yang lebih cepat dan lebih stabil.
 
 
+Pertanyaan yang sangat bagus! "Konvergen" adalah istilah yang akan kamu dengar terus-menerus di dunia optimisasi dan Machine Learning.
+
+Mari kita definisikan dengan analogi "menuruni gunung" kita.
+
+---
+>[!info] Catatan - catatan tambahan
+### **Apa Itu "Konvergen"?**
+
+Secara intuitif, sebuah proses disebut **KONVERGEN (CONVERGES)** jika ia **semakin lama semakin mendekati sebuah solusi akhir yang stabil.**
+
+Bayangkan perjalanan pendaki kita (algoritma Gradient Descent):
+*   **Iterasi 1:** Posisi `(10, 20)`
+*   **Iterasi 2:** Posisi `(8, 15)`
+*   **Iterasi 3:** Posisi `(6.5, 11)`
+*   ...
+*   **Iterasi 100:** Posisi `(0.1, 0.2)`
+*   **Iterasi 101:** Posisi `(0.08, 0.15)`
+*   ...
+*   **Iterasi 1000:** Posisi `(0.0001, 0.0002)`
+*   **Iterasi 1001:** Posisi `(0.00008, 0.00015)`
+
+Lihat polanya? Pendaki kita **semakin mendekat dan semakin mendekat** ke titik `(0,0)`. Langkah-langkahnya menjadi semakin kecil. Kita bisa bilang bahwa perjalanan pendaki ini **konvergen ke titik `(0,0)`**.
+
+---
+
+### **Apa Itu "Tidak Konvergen" (Divergen)?**
+
+Sebuah proses disebut **TIDAK KONVERGEN** atau **DIVERGEN (DIVERGES)** jika ia **tidak pernah "tenang" atau tidak pernah mendekati satu solusi akhir.**
+
+Ada beberapa cara sebuah program bisa "tidak konvergen":
+
+**1. "Meledak" (Exploding)**
+*   **Penyebab:** Biasanya karena **Learning Rate terlalu besar**.
+*   **Analogi:** Pendaki kita mengambil langkah yang terlalu besar. Dia melompati dasar lembah dan mendarat di lereng seberang yang lebih tinggi dari posisi awalnya.
+*   **Perilaku:**
+    *   Iterasi 1: `Loss = 100`
+    *   Iterasi 2: `Loss = 150` (Loh, kok jadi lebih buruk?)
+    *   Iterasi 3: `Loss = 500`
+    *   Iterasi 4: `Loss = 10000`
+    *   ...
+    *   Iterasi 10: `Loss = NaN` (Not a Number, karena angkanya sudah terlalu besar untuk dihitung komputer).
+*   Programnya "meledak" dan tidak akan pernah menemukan solusi.
+
+**2. "Memantul-mantul" (Oscillating)**
+*   **Penyebab:** Learning rate juga terlalu besar, tapi tidak separah kasus pertama.
+*   **Analogi:** Pendaki melompati dasar lembah, tapi mendarat di ketinggian yang sama atau sedikit lebih rendah. Lalu dia melompat balik lagi, dan seterusnya.
+*   **Perilaku:**
+    *   Iterasi 1: `Loss = 100`
+    *   Iterasi 2: `Loss = 90`
+    *   Iterasi 3: `Loss = 95`
+    *   Iterasi 4: `Loss = 88`
+    *   Iterasi 5: `Loss = 92`
+*   Dia "membaik" secara umum, tapi nilainya terus memantul naik-turun dan tidak pernah benar-benar "tenang" di dasar lembah. Konvergensinya sangat lambat atau bahkan tidak terjadi.
+
+**3. "Bergetar" (Stuck)**
+*   Ini terjadi di lanskap yang "kasar" atau "berkerikil".
+*   **Analogi:** Pendaki kita "menari-nari" di antara beberapa kerikil dan tidak pernah membuat kemajuan berarti menuju lembah utama.
+*   **Perilaku:** Nilai Loss-nya mungkin turun sedikit di awal, tapi kemudian berhenti berubah secara signifikan, meskipun masih sangat jauh dari solusi yang baik.
+
+---
+
+**Kesimpulan:**
+Saat seorang engineer ML berkata:
+*   **"Modelnya konvergen"**: Ini adalah **kabar baik**. Artinya, proses training berjalan lancar, dan algoritma berhasil menemukan sebuah lembah (semoga yang dalam).
+*   **"Modelnya tidak konvergen"**: Ini adalah **kabar buruk**. Artinya, ada yang salah dengan proses training (kemungkinan besar *learning rate* atau arsitektur model), dan algoritma gagal menemukan solusi yang stabil.
