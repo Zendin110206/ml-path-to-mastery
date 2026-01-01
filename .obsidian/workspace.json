@@ -277,12 +277,14 @@
             "id": "3e31ef303138d396",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "00_Inbox/assets/Pasted image 20260102001022.png"
+                "file": "01_Mathematics/Synthesis_and_Review/S01_Mathematical Foundations - Q&A.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260102001022"
+              "icon": "lucide-file",
+              "title": "S01_Mathematical Foundations - Q&A.md"
             }
           }
         ],
@@ -461,9 +463,10 @@
   },
   "active": "36fac457950b3aa9",
   "lastOpenFiles": [
+    "01_Mathematics/Synthesis_and_Review/S01_Mathematical Foundations - Q&A.pdf",
+    "00_Inbox/assets/Pasted image 20260102001022.png",
     "01_Mathematics/Synthesis_and_Review/S01_Mathematical Foundations - Q&A.md.md",
     "00_Inbox/assets/Pasted image 20260102001107.png",
-    "00_Inbox/assets/Pasted image 20260102001022.png",
     "99_Private_Log/Day-48.md",
     "00_Inbox/assets/Pasted image 20260101194953.png",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/04 - More Simple Neural Networks.md.md",
