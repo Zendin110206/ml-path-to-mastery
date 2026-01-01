@@ -230,9 +230,65 @@
               "icon": "lucide-file",
               "title": "S01_Mathematical Foundations - Q&A.md"
             }
+          },
+          {
+            "id": "33c0b5461a78c50a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/01 - Multivariate Chain Rule.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Multivariate Chain Rule.md"
+            }
+          },
+          {
+            "id": "cd9c188080a486a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/02 - More Multivariate Chain Rule.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - More Multivariate Chain Rule.md"
+            }
+          },
+          {
+            "id": "79ee24ad77a8d977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/03 - Simple Neural Networks.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - Simple Neural Networks.md"
+            }
+          },
+          {
+            "id": "3e31ef303138d396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Private_Log/Day-48.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-48"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -289,7 +345,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5091133117676
+    "width": 234.50911331176758
   },
   "right": {
     "id": "3dbc805e0a480f3f",
@@ -405,53 +461,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84aefc770d8e04d2",
+  "active": "3e31ef303138d396",
   "lastOpenFiles": [
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/07 - The Reality of Optimization.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/07 - The Reality of Optimization.pdf",
-    "00_Inbox/assets/Pasted image 20251228034712.png",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/06 - The Hessian.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/06 - The Hessian.pdf",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/05 - The Sandpit.md.md",
-    "00_Inbox/assets/Pasted image 20251228035815.png",
-    "00_Inbox/assets/Pasted image 20251228035248.png",
-    "00_Inbox/assets/Pasted image 20251228035043.png",
-    "00_Inbox/assets/Pasted image 20251228034804.png",
-    "00_Inbox/assets/Pasted image 20251228022109.png",
-    "00_Inbox/assets/Pasted image 20251228033046.png",
-    "00_Inbox/assets/Pasted image 20251228030026.png",
-    "00_Inbox/assets/Pasted image 20251228030000.png",
-    "00_Inbox/assets/Pasted image 20251228025919.png",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/05 - The Sandpit.pdf",
-    "01_Mathematics/Synthesis_and_Review/S01_Mathematical Foundations - Q&A.pdf",
-    "01_Mathematics/Synthesis_and_Review/S01_Mathematical Foundations - Q&A.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/04 - The Jacobian Applied.pdf",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/04 - The Jacobian Applied.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/03 - The Jacobian.pdf",
+    "00_Inbox/assets/Pasted image 20260101194953.png",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/04 - More Simple Neural Networks.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/04 - More Simple Neural Networks.pdf",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/03 - Simple Neural Networks.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/03 - Simple Neural Networks.pdf",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/02 - More Multivariate Chain Rule.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/02 - More Multivariate Chain Rule.pdf",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/01 - Multivariate Chain Rule.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/01 - Multivariate Chain Rule.pdf",
+    "00_Inbox/assets/Pasted image 20260101204049.png",
+    "00_Inbox/assets/Pasted image 20260101204000.png",
+    "00_Inbox/assets/Pasted image 20260101203739.png",
+    "00_Inbox/assets/Pasted image 20260101203328.png",
+    "00_Inbox/assets/Pasted image 20260101203205.png",
+    "00_Inbox/assets/Pasted image 20260101203101.png",
+    "00_Inbox/assets/Pasted image 20260101202901.png",
+    "00_Inbox/assets/Pasted image 20260101202636.png",
+    "00_Inbox/assets/Pasted image 20260101201741.png",
+    "00_Inbox/assets/Pasted image 20260101201608.png",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/01 - Variables, Constants, and Context.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/02 - Differentiating With Respect to Anything.pdf",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/03 - The Jacobian.pdf",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/01 - Variables, Constants, and Context.pdf",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/05 - Eigenbasis Example.pdf",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/03 - The Jacobian.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/_M01 - Summary and Final Insights.md.md",
+    "01 - Multivariate Chain Rule.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/04 - The Jacobian Applied.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/05 - The Sandpit.pdf",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/05 - The Sandpit.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/06 - The Hessian.pdf",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/06 - The Hessian.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/07 - The Reality of Optimization.pdf",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/07 - The Reality of Optimization.md.md",
+    "99_Private_Log/Day-48.md",
+    "01_Mathematics/Synthesis_and_Review/S01_Mathematical Foundations - Q&A.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03b - Calculating Eigenvectors.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06b - Introduction to PageRank.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03 - Calculating Eigenvectors.pdf",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/02b - Special Eigen-Cases.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/02 - Special Eigen-Cases.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/07 - Basis, Vector Space, and Applications.md.md",
     "99_Private_Log/Day-46.md",
     "99_Private_Log/Day-47.md",
-    "99_Private_Log/Day-48.md",
     "Riset Mandiri ( 26 desember 2025).md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/_M01 - Summary and Final Insights.md.md",
     "01_Mathematics/_Sources/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 03 - Derivative Formulas Through Geometry.md.md",
     "01_Mathematics/_Sources/00_Intuition_Series (3Blue1Brown)/02_Calculus/Ch 01 - The Essence of Calculus.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/08 - On Calculating Determinants (A Note on Pedagogy).md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/06 - Example - Reflection in a Plane.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/05b - The Gram-Schmidt Process.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M04_Matrices_make_linear_mappings/01 - Einstein Summation and Dot Product.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M03_Matrices_operate_on_Vectors/01 - Matrices, Vectors, and Equations.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/Formula Summary 01-04.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/06 - Changing Basis.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/04 - Projection.md.md",
     "Untitled.canvas"
   ]
 }
