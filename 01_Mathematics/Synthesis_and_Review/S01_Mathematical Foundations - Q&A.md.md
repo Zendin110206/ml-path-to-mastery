@@ -418,3 +418,10 @@ Ada beberapa cara sebuah program bisa "tidak konvergen":
 Saat seorang engineer ML berkata:
 *   **"Modelnya konvergen"**: Ini adalah **kabar baik**. Artinya, proses training berjalan lancar, dan algoritma berhasil menemukan sebuah lembah (semoga yang dalam).
 *   **"Modelnya tidak konvergen"**: Ini adalah **kabar buruk**. Artinya, ada yang salah dengan proses training (kemungkinan besar *learning rate* atau arsitektur model), dan algoritma gagal menemukan solusi yang stabil.
+
+---
+> keseringan lupa kadang kadang cara hitung ( tapi tenang aja setelah lihat ini, konsep konsep fundamental seperti i kemana, j kemana dan visualisasinya ke bayang kok)
+ 
+![[Pasted image 20260102001022.png#center]]
+
+![[Pasted image 20260102001107.png#center]]
