@@ -13,15 +13,112 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/05 - Lab - Backpropagation.md.md",
+                "file": "99_Private_Log/Day-48.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - Lab - Backpropagation.md"
+              "title": "Day-48"
+            }
+          },
+          {
+            "id": "145952ce14b447d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Private_Log/Day-49.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-49"
+            }
+          },
+          {
+            "id": "116636008397e191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Private_Log/Day-50.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-50"
+            }
+          },
+          {
+            "id": "a570143aec29bfa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Private_Log/Day-51.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-51"
+            }
+          },
+          {
+            "id": "221d1f08e22b7a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Private_Log/Day-52.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-52"
+            }
+          },
+          {
+            "id": "08b114210871240f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/Synthesis_and_Review/S01_Mathematical Foundations - Q&A.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S01_Mathematical Foundations - Q&A.md"
+            }
+          },
+          {
+            "id": "e24efb203940b147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/02 - Power Series.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - Power Series.md"
+            }
+          },
+          {
+            "id": "5d4695bba304b25c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "00_Inbox/assets/Pasted image 20260103234319.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260103234319"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -78,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50911331176758
+    "width": 358.5091133117676
   },
   "right": {
     "id": "3dbc805e0a480f3f",
@@ -194,54 +291,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1554cf421d6249bc",
+  "active": "36fac457950b3aa9",
   "lastOpenFiles": [
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/03 - Power Series Derivation.md.md",
+    "00_Inbox/assets/Pasted image 20260103234413.png",
+    "00_Inbox/assets/Pasted image 20260103234319.png",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/02 - Power Series.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/01 - Building Approximate Functions.md.md",
+    "00_Inbox/assets/Pasted image 20260103221332.png",
+    "Pasted image 20260103232925.png",
+    "Pasted image 20260103232949.png",
+    "00_Inbox/assets/Pasted image 20260103233214.png",
+    "00_Inbox/assets/Pasted image 20260103233151.png",
+    "00_Inbox/assets/Pasted image 20260103233115.png",
+    "00_Inbox/assets/Pasted image 20260103233058.png",
+    "00_Inbox/assets/Pasted image 20260103223056.png",
+    "99_Private_Log/Day-50.md",
+    "Ch 11 - Taylor Series.md",
+    "01_Mathematics/Synthesis_and_Review/S01_Mathematical Foundations - Q&A.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation",
+    "01_Mathematics/_Sources/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 14 - Eigenvectors and Eigenvalues.md.pdf",
+    "01_Mathematics/_Sources/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 15 - A Quick Trick for Eigenvalues.md.md",
+    "01_Mathematics/_Sources/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 15 - A Quick Trick for Eigenvalues.md.pdf",
+    "01_Mathematics/_Sources/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 16 - Abstract Vector Spaces.md.md",
+    "01_Mathematics/_Sources/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 12 - Cramer's Rule, Explained Geometrically.md.pdf",
+    "99_Private_Log/Day-53.md",
+    "99_Private_Log/Day-54.md",
+    "99_Private_Log/Day-52.md",
+    "99_Private_Log/Day-51.md",
+    "99_Private_Log/Day-49.md",
+    "99_Private_Log/Day-48.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/05 - Lab - Backpropagation.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/04 - More Simple Neural Networks.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/03 - Simple Neural Networks.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/02 - More Multivariate Chain Rule.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/01 - Multivariate Chain Rule.md.md",
-    "01_Mathematics/Synthesis_and_Review/S01_Mathematical Foundations - Q&A.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/06 - The Hessian.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/05 - The Sandpit.md.md",
     "99_Private_Log/Day-45.md",
     "99_Private_Log/Day-44.md",
     "99_Private_Log/Day-43.md",
     "99_Private_Log/Day-42.md",
-    "99_Private_Log/Day-41.md",
-    "99_Private_Log/Day-40.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/05 - Lab - Backpropagation.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/05 - Lab - Backpropagation.pdf",
-    "00_Inbox/assets/Pasted image 20260102002244.png",
-    "00_Inbox/assets/Pasted image 20260102005523.png",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/04 - More Simple Neural Networks.pdf",
-    "00_Inbox/assets/Pasted image 20260102002320.png",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/02 - More Multivariate Chain Rule.pdf",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/03 - Simple Neural Networks.pdf",
     "01_Mathematics/Synthesis_and_Review/S01_Mathematical Foundations - Q&A.pdf",
-    "00_Inbox/assets/Pasted image 20260102001022.png",
-    "00_Inbox/assets/Pasted image 20260102001107.png",
-    "99_Private_Log/Day-48.md",
-    "00_Inbox/assets/Pasted image 20260101194953.png",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/01 - Multivariate Chain Rule.pdf",
-    "00_Inbox/assets/Pasted image 20260101204049.png",
-    "00_Inbox/assets/Pasted image 20260101204000.png",
-    "00_Inbox/assets/Pasted image 20260101203739.png",
-    "00_Inbox/assets/Pasted image 20260101203328.png",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/01 - Variables, Constants, and Context.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/02 - Differentiating With Respect to Anything.pdf",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/03 - The Jacobian.pdf",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/01 - Variables, Constants, and Context.pdf",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/03 - The Jacobian.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/_M01 - Summary and Final Insights.md.md",
-    "01 - Multivariate Chain Rule.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/04 - The Jacobian Applied.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/05 - The Sandpit.pdf",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/07 - The Reality of Optimization.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/03b - Calculating Eigenvectors.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/06b - Introduction to PageRank.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/02b - Special Eigen-Cases.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M05_Eigenvalues_and_Eigenvectors/02 - Special Eigen-Cases.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M02_Vectors_are_objects/07 - Basis, Vector Space, and Applications.md.md",
     "Untitled.canvas"
   ]
 }
