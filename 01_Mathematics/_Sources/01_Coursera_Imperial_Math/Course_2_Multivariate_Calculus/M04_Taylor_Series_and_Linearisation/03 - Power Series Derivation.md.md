@@ -269,10 +269,6 @@ Jika kamu ingin menghitung `sin(0.1)` (di mana 0.1 dalam radian), kamu bisa apro
 *   `sin(0.1) ≈ 0.1 - (0.1)³/6 = 0.1 - 0.001/6 ≈ 0.1 - 0.000166 = 0.099834`
 *   *Nilai sebenarnya adalah `0.0998334...`*
 
-Lagi-lagi, aproksimasinya luar biasa akurat hanya dengan beberapa suku.
-
-Apakah dengan mengerjakan contoh `sin(x)` ini, polanya menjadi lebih jelas?
-
 
 ---
 **Tags:** #mml-specialization #multivariate-calculus #taylor-series #maclaurin-series #derivation

@@ -109,16 +109,102 @@
             "id": "5d4695bba304b25c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "00_Inbox/assets/Pasted image 20260103234319.png"
+                "file": "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/03 - Power Series Derivation.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260103234319"
+              "icon": "lucide-file",
+              "title": "03 - Power Series Derivation.md"
+            }
+          },
+          {
+            "id": "6463fa25c4ebca8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/03 - Power Series Derivation.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - Power Series Derivation.md"
+            }
+          },
+          {
+            "id": "53451b908d546c0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/04 - Power Series Details.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 - Power Series Details.md"
+            }
+          },
+          {
+            "id": "e72d680f574f9e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/04 - Power Series Details.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 - Power Series Details.md"
+            }
+          },
+          {
+            "id": "9fbf0cc1fbbb4d8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/05 - Taylor Series Examples.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - Taylor Series Examples.md"
+            }
+          },
+          {
+            "id": "9a1a44f94e0e3051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/05 - Taylor Series Examples.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - Taylor Series Examples.md"
+            }
+          },
+          {
+            "id": "15a2e5ac3aa006e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/06 - Linearisation.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 - Linearisation.md"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -175,7 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5091133117676
+    "width": 209.50911331176758
   },
   "right": {
     "id": "3dbc805e0a480f3f",
@@ -291,21 +377,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36fac457950b3aa9",
+  "active": "15a2e5ac3aa006e4",
   "lastOpenFiles": [
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/04 - Power Series Details.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/05 - Taylor Series Examples.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/06 - Linearisation.md.md",
+    "00_Inbox/assets/Pasted image 20260104085053.png",
+    "00_Inbox/assets/Pasted image 20260104084958.png",
+    "00_Inbox/assets/Pasted image 20260104085032.png",
+    "00_Inbox/assets/Pasted image 20260104085008.png",
+    "Pasted image 20260104083508.png",
+    "Untitled.md",
+    "Pasted image 20260104083703.png",
+    "Pasted image 20260104083640.png",
+    "Pasted image 20260104083536.png",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/03 - Power Series Derivation.md.md",
-    "00_Inbox/assets/Pasted image 20260103234413.png",
-    "00_Inbox/assets/Pasted image 20260103234319.png",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/02 - Power Series.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/02 - Rise Over Run.pdf",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/00 - Welcome to Multivariate Calculus.pdf",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/00 - Welcome to Multivariate Calculus.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/_M01 - Summary and Final Insights.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M04_Taylor_Series_and_Linearisation/01 - Building Approximate Functions.md.md",
-    "00_Inbox/assets/Pasted image 20260103221332.png",
-    "Pasted image 20260103232925.png",
-    "Pasted image 20260103232949.png",
-    "00_Inbox/assets/Pasted image 20260103233214.png",
-    "00_Inbox/assets/Pasted image 20260103233151.png",
-    "00_Inbox/assets/Pasted image 20260103233115.png",
-    "00_Inbox/assets/Pasted image 20260103233058.png",
-    "00_Inbox/assets/Pasted image 20260103223056.png",
+    "00_Inbox/assets/Pasted image 20260103234319.png",
+    "00_Inbox/assets/Pasted image 20260103234413.png",
     "99_Private_Log/Day-50.md",
     "Ch 11 - Taylor Series.md",
     "01_Mathematics/Synthesis_and_Review/S01_Mathematical Foundations - Q&A.md.md",
@@ -327,17 +421,10 @@
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/02 - More Multivariate Chain Rule.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/01 - Multivariate Chain Rule.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/06 - The Hessian.md.md",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M02_Multivariate_Calculus/05 - The Sandpit.md.md",
-    "99_Private_Log/Day-45.md",
-    "99_Private_Log/Day-44.md",
-    "99_Private_Log/Day-43.md",
-    "99_Private_Log/Day-42.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/05 - Lab - Backpropagation.pdf",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/04 - More Simple Neural Networks.pdf",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/02 - More Multivariate Chain Rule.pdf",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/03 - Simple Neural Networks.pdf",
-    "01_Mathematics/Synthesis_and_Review/S01_Mathematical Foundations - Q&A.pdf",
-    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M03_Multivariate_Chain_Rule/01 - Multivariate Chain Rule.pdf",
     "Untitled.canvas"
   ]
 }
