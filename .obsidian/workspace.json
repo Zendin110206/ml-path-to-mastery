@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ea9151437fa3afcd",
+        "id": "bb36235c9dbb8102",
         "type": "tabs",
         "children": [
           {
-            "id": "ab95596fbbafd72c",
+            "id": "c523ad911f072d95",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "00_Inbox/assets/Pasted image 20260406111134.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260406111134"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -76,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 608.5091133117676
+    "width": 225.5
   },
   "right": {
     "id": "3dbc805e0a480f3f",
@@ -192,32 +190,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36fac457950b3aa9",
+  "active": "c523ad911f072d95",
   "lastOpenFiles": [
+    "Untitled.base",
+    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Parsial.pdf",
+    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Trigonometri.pdf",
+    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Tak Wajar.pdf",
+    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Substitusi Trigonometri.md.md",
+    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Substitusi Trigonometri.pdf",
+    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Substitusi Bentuk Akar.pdf",
+    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Fungsi Rasional (Pecahan Parsial).pdf",
+    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Substitusi Bentuk Akar.md.md",
+    "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_2_Multivariate_Calculus/M01_What_is_Calculus/00 - Welcome to Multivariate Calculus.pdf",
+    "00_Inbox/assets/Pasted image 20260406111134.png",
     "00_Inbox/assets/Pasted image 20260406110643.png",
     "01_Mathematics/Teaching_Assistant/Calculus_2/Integration by Substitution (Radical & Trigonometric Functions) (ENGLISH).md.md",
     "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Tak Wajar.md.md",
-    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Tak Wajar.pdf",
     "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Fungsi Rasional (Pecahan Parsial).md.md",
     "01_Mathematics/Teaching_Assistant/Calculus_2/Untitled 1.md",
-    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Fungsi Rasional (Pecahan Parsial).pdf",
-    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Substitusi Bentuk Akar.pdf",
     "Untitled.md",
-    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Substitusi Trigonometri.md.md",
-    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Substitusi Trigonometri.pdf",
-    "00_Inbox/assets/Pasted image 20260406111134.png",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M01_Intoduction/01 - Getting a Handle on Vectors.md.md",
     "01_Mathematics/_Sources/01_Coursera_Imperial_Math/Course_1_Linear_Algebra/M01_Intoduction/01 - Getting a Handle on Vectors.md.pdf",
-    "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Substitusi Bentuk Akar.md.md",
     "01_Mathematics/Teaching_Assistant/Calculus_2/Integral Substitusi Bentuk Akar.md 1.md",
     "01_Mathematics/_Sources/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 04 - Matrix Multiplication as Compositions.md.pdf",
     "README.md",
     "01_Mathematics/Teaching_Assistant/Calculus_2",
-    "Untitled",
-    "01_Mathematics/Teaching_Assistant",
     "04_Journal/Learning_Milestones.md.md",
     "01_Mathematics/_Sources/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 04 - Matrix Multiplication as Compositions.md.md",
-    "01_Mathematics/_Sources/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 03 - Linear Transformations and Matrices.md.pdf",
     "01_Mathematics/_Sources/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 03 - Linear Transformations and Matrices.md.md",
     "01_Mathematics/_Sources/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 01 - Vectors.md.md",
     "01_Mathematics/_Sources/00_Intuition_Series (3Blue1Brown)/01_Linear_Algebra/Ch 02 - Linear Combinations, Span, and Basis Vectors.md.md",
