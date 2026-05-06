@@ -1,1 +1,27 @@
+# Private notes
 99_Private_Log/
+
+# Obsidian local state and plugin vendor files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/cache/
+.obsidian/logs/
+.obsidian/backups/
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Python / notebook local artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
